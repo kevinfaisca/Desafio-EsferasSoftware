@@ -1,0 +1,50 @@
+body{
+    background-color: black
+}
+
+h2{
+    display: inline-block;
+    margin: 65px 0px 0px 40px;
+    font-family: Arial;
+    font-weight: 500;
+    color: white;
+}
+
+select {
+    width: 60px;
+    height: 40px;
+    font-size: 2em;
+    display: inline-block;
+}
+
+h3{
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.botao-iniciar{
+    background-color: green;
+}
+
+.botao-pausar{
+    background-color: grey;
+}
+
+.botao-cancelar{
+    background-color: red;
+}
